@@ -4,7 +4,6 @@
 
 This python package is prepared by Cuong Than.
 <<<<<<< Updated upstream
-=======
 
 Install
 
@@ -13,4 +12,4 @@ Install
 Uninstall
 
 `pip uninstall preprocess_hungcuongthan`
->>>>>>> Stashed changes
+
